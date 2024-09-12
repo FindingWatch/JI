@@ -1,2 +1,2 @@
 # JI ruined me
-This Repository contain some Assignment solution of JI
+This Repository contain some resource of JI Assignment 
